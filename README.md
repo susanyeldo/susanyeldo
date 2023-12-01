@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
+![hippo](https://media.giphy.com/media/888R35MJTmDxQfRzfS/giphy.gif)
 
 - 🔭 I’m currently working on an emotion based AI tutor
 - 🌱 I’m currently learning software developement
