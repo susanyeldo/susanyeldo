@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
+
+- 🔭 I’m currently working on an emotion based AI tutor
+- 🌱 I’m currently learning software developement
+- 👯 I’m looking to collaborate on anything new <3
+- 🤔 I’m looking for help with finding a niche 
+- 💬 Ask me about ideas, life experiences, technology - I'm open to it all
+- 📫 How to reach me: susanna.yeldo@gmail.com
+- ⚡ Fun fact: Scotland chose the unicorn as its national animal.
+
 <!--
 **susanyeldo/susanyeldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
