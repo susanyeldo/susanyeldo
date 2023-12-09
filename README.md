@@ -2,7 +2,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/888R35MJTmDxQfRzfS/giphy.gif">
 
-- 🔭 I’m currently working on an emotion based AI tutor
 - 🌱 I’m currently learning software developement
 - 👯 I’m looking to collaborate on anything new <3
 - 🤔 I’m looking for help with finding a niche 
